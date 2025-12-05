@@ -619,7 +619,7 @@ pathspec==0.9.0 \
     # via
     #   black
     #   yamllint
-peewee==3.17.1 \
+peewee==3.18.3 \
     --hash=sha256:e009ac4227c4fdc0058a56e822ad5987684f0a1fbb20fed577200785102581c3
     # via semgrep
 pep517==0.10.0 \
